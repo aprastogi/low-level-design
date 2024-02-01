@@ -1,4 +1,4 @@
-package rate.limiter;
+package com.apoorv;
 
 import java.util.HashMap;
 import java.util.Map;

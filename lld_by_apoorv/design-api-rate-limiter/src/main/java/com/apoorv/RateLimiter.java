@@ -1,4 +1,4 @@
-package rate.limiter;
+package com.apoorv;
 
 public interface RateLimiter {
 
